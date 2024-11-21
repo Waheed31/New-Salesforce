@@ -1,1 +1,2 @@
-Hello user welcome to github
+Hello user welcome to GitHub
+made some changes
